@@ -5,3 +5,7 @@ Online Shopping System : System Analysis and Design Group Project
 1) Salmaz Zaman
 2) Imranz Zaman
 3) Rayhan Uddin
+
+#Tools:
+- Project management : Github projects
+- UML design: Visual paradigm
